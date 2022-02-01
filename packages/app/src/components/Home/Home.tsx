@@ -1,5 +1,6 @@
 import React from 'react';
+import { PrimaryButton } from '@fluentui/react';
 
 export const Home = () => {
-    return <p>Home</p>
+    return <PrimaryButton>Press me!</PrimaryButton>
 }
